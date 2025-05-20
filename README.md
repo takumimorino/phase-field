@@ -1,4 +1,4 @@
-# Program for "An explicit integration approach for predicting the microstructures of multicomponent alloys"
+# Program and data for "An explicit integration approach for predicting the microstructures of multicomponent alloys"
 
 This repository contains the program code used to perform the calculations described in the paper:
 
