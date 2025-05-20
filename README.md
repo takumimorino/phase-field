@@ -2,7 +2,7 @@
 
 This repository contains the program code used to perform the calculations described in the paper:
 
-> "Phase-Field Modeling for Practical Engineering Materials by Takumi Morino, Machiko Ode and Shoich Hirosawa
+> Takumi Morino, Machiko Ode and Shoich Hirosawa, "An explicit integration approach for predicting the microstructures of multicomponent alloys", Nature Communications
 
 ## Files in the Repository
 
