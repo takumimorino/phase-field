@@ -36,4 +36,5 @@ This repository contains the program code used to perform the calculations descr
 - 'functions.py': Functions.
 - 'input_files': Calculation and numerical paramters.
 - 'data_for_figures': Data for figures in the paper.
+- 'TDBConvTakumi.ipynb': A system that convert TDB files into python style free energy functions.
 - 'README.md': Documentation for the program.
