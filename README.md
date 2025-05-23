@@ -6,7 +6,7 @@ This repository contains the program code used to perform the calculations descr
 
 ## Files in the Repository
 
-- `main.py`: The main script to execute the calculations.
+- 'main.py': The main script to execute the calculations.
   You can select calculation system by changing `os.environ['import_file']`.
   The calculation system includes
   - al-dendrite in 3 components system
@@ -33,6 +33,7 @@ This repository contains the program code used to perform the calculations descr
   - ni-superalloy in 9 components system
   - ni-superalloy in 12 components system
 
-- `functions.py`: Functions.
-- `input_files`: Calculation and numerical paramters.
-- `README.md`: Documentation for the program.
+- 'functions.py': Functions.
+- 'input_files': Calculation and numerical paramters.
+- 'data_for_figures': Data for figures in the paper.
+- 'README.md': Documentation for the program.
